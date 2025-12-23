@@ -39,21 +39,21 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/ansh-jaiswal-400b0a328" target="_blank">
+  <a href="https://www.linkedin.com/in/ansh-jaiswal-400b0a328" target="_blank">
     <img 
-      src="https://www.citypng.com/public/uploads/preview/hd-linkedin-official-logo-transparent-background-701751694779193uxxevujc5p.png" 
-      alt="LinkedIn" 
+      src="https://www.citypng.com/public/uploads/preview/hd-linkedin-official-logo-transparent-background-701751694779193uxxevujc5p.png"
+      alt="LinkedIn"
       height="36"
-      style="margin-right:20px;"
+      style="margin-right:24px;"
     />
   </a>
 
-  <a href="github.com" target="_blank">
+  <a href="https://YOUR-PORTFOLIO-LINK" target="_blank">
     <img 
-      src="https://img.shields.io/badge/Portfolio-Professional-black?style=for-the-badge" 
-      alt="Portfolio" 
+      src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Folder_Icon.svg"
+      alt="Portfolio"
       height="36"
-      style="margin-right:20px;"
+      style="margin-right:24px;"
     />
   </a>
 
