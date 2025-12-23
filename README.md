@@ -6,10 +6,12 @@
     pause=800&
     center=true&
     vCenter=true&
-    width=500&
+    width=520&
+    color=9CA3AF&
     lines=Hello+there!;My+name+is+Ansh+Jaiswal;Data+Analyst"
   />
 </p>
+
 
 ---
 
@@ -57,6 +59,7 @@ Actively seeking opportunities to apply and grow my skills in real-world project
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png"
       alt="LinkedIn"
       height="36"
+      width="90"
       style="margin-right:24px;"
     />
   </a>
