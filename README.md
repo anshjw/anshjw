@@ -4,9 +4,31 @@
 
 ---
 
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Profile
+
 Undergraduate Data Analyst focused on data-driven problem solving, analytics, and continuous learning.  
 Interested in extracting insights from data using statistical thinking and modern analytical tools.  
 Actively seeking opportunities to apply and grow my skills in real-world projects.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Current Focus
+
+- Strengthening data analysis fundamentals  
+- Building hands-on projects using real datasets  
+- Improving SQL, Python, and visualization skills  
+- Continuous learning and skill development  
+
+</td>
+</tr>
+</table>
 
 ---
 
