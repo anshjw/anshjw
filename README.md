@@ -48,7 +48,7 @@ Actively seeking opportunities to apply and grow my skills in real-world project
   </a>
   &nbsp;&nbsp;
   <a href="mailto:anshjw1926@gmail.com">
-    <img src="https://www.pngegg.com/en/png-zngra" alt="Gmail" width="64" height="32"/>
+    <img src="https://e7.pngegg.com/pngimages/601/528/png-clipart-gmail-logo-triangle-text-brand-gmail-angle-text.png" alt="Gmail" width="64" height="32"/>
   </a>
 </p>
 
