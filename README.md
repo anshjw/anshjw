@@ -29,7 +29,6 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 - 📌 SQL data exploration & querying projects  
 - 📌 Dashboard & visualization work  
 
-
 ---
 
 ## 📈 Currently Learning
@@ -43,16 +42,16 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ansh-jaiswal-400b0a328" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" alt="LinkedIn" height="36" width="90" style="margin-right:24px;"/>
+  <a href="mailto:anshjw1926@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://YOUR-PORTFOLIO-LINK" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3F4LmKyAA-3N-XeqMvEJgUrfxfKiSgksoVw&s" alt="Portfolio" height="36" style="margin-right:24px;"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <a href="mailto:anshjw1926@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="36"/>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ansh-jaiswal-400b0a328" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
