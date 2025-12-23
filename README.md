@@ -36,19 +36,35 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 
 ---
 
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ansh-jaiswal-400b0a328/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="64" height="32"/>
+  <a href="www.linkedin.com/in/ansh-jaiswal-400b0a328" target="_blank">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" 
+      alt="LinkedIn" 
+      height="36"
+      style="margin-right:20px;"
+    />
   </a>
-  &nbsp;&nbsp;
+
   <a href="https://YOUR-PORTFOLIO-LINK" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Portfolio" width="64" height="32"/>
+    <img 
+      src="https://img.shields.io/badge/Portfolio-Professional-black?style=for-the-badge" 
+      alt="Portfolio" 
+      height="36"
+      style="margin-right:20px;"
+    />
   </a>
-  &nbsp;&nbsp;
+
   <a href="mailto:anshjw1926@gmail.com">
-    <img src="https://e7.pngegg.com/pngimages/601/528/png-clipart-gmail-logo-triangle-text-brand-gmail-angle-text.png" alt="Gmail" width="64" height="32"/>
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" 
+      alt="Gmail" 
+      height="36"
+    />
   </a>
 </p>
 
