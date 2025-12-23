@@ -41,15 +41,14 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 <p align="center">
   <a href="www.linkedin.com/in/ansh-jaiswal-400b0a328" target="_blank">
     <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" 
+      src="https://www.citypng.com/public/uploads/preview/hd-linkedin-official-logo-transparent-background-701751694779193uxxevujc5p.png" 
       alt="LinkedIn" 
       height="36"
-      width="72"
       style="margin-right:20px;"
     />
   </a>
 
-  <a href="" target="_blank">
+  <a href="github.com" target="_blank">
     <img 
       src="https://img.shields.io/badge/Portfolio-Professional-black?style=for-the-badge" 
       alt="Portfolio" 
