@@ -36,8 +36,6 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 
 ---
 
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -46,11 +44,12 @@ Actively seeking opportunities to apply and grow my skills in real-world project
       src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" 
       alt="LinkedIn" 
       height="36"
+      width="72"
       style="margin-right:20px;"
     />
   </a>
 
-  <a href="https://YOUR-PORTFOLIO-LINK" target="_blank">
+  <a href="" target="_blank">
     <img 
       src="https://img.shields.io/badge/Portfolio-Professional-black?style=for-the-badge" 
       alt="Portfolio" 
