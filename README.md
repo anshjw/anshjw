@@ -68,7 +68,7 @@ Actively seeking opportunities to apply and grow my skills in real-world project
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://YOUR-PORTFOLIO-LINK" target="_blank">
+  <a href="https://anshjw.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;
