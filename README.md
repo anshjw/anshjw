@@ -72,6 +72,10 @@ Actively seeking opportunities to apply and grow my skills in real-world project
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/anshjw" target="_blank">
+    <img src="https://www.kaggle.com/static/images/site-logo.svg" height="36" alt="Kaggle"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ansh-jaiswal-400b0a328" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
