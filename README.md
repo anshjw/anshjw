@@ -82,8 +82,7 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 </p>
 
 ---
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ansh-jaiswal-400b0a328" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ansh-jaiswal-400b0a328?trk=profile-badge">Ansh Jaiswal</a></div>
----
+
 ## 🤝 Open To Opportunities
 
 I am open to internships, collaborative projects, and entry-level opportunities in **Data Analytics**  
