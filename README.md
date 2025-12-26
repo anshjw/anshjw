@@ -34,12 +34,12 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 
 ## 🧰 Technologies & Tools
 
-- **Programming:** Python (Pandas, NumPy)
+- **Programming:** Python (Pandas, NumPy), R(programming language), C
 - **Data Analysis:** Exploratory Data Analysis (EDA), Data Cleaning
-- **Databases:** SQL
+- **Databases:** SQL (MY-SQL, POSTGRE-SQL, SQL-Lite
 - **Visualization:** Matplotlib, Seaborn, Power BI / Tableau (Basic)
 - **Spreadsheets:** Excel (Pivot Tables, Lookups)
-- **Tools:** Jupyter Notebook, Git, GitHub
+- **Tools:** Anaconda, Jupyter Notebook, Git, GitHub
 
 ---
 
