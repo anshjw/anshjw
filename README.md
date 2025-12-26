@@ -24,7 +24,8 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 - Strengthening data analysis fundamentals  
 - Building hands-on projects using real datasets  
 - Improving SQL, Python, and visualization skills  
-- Continuous learning and skill development  
+- Continuous learning and skill development
+- Business Acumen 
 
 </td>
 </tr>
