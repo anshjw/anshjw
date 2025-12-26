@@ -47,7 +47,7 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 
 > This section showcases selected work demonstrating data analysis, visualization, and problem-solving skills.
 
-- 📌 Python-based Data Analysis projects  
+- 📌 Full Stack Scientific Lab Management E-commerce Website(online hosted)
 - 📌 SQL data exploration & querying projects  
 - 📌 Dashboard & visualization work  
 
