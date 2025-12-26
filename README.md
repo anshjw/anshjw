@@ -48,7 +48,7 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 > This section showcases selected work demonstrating data analysis, visualization, and problem-solving skills.
 
 - 📌 Full Stack Scientific Lab Management E-commerce Website(online hosted)
-- 📌 SQL data exploration & querying projects  
+- 📌 Gym Management Web application for Local storage based database
 - 📌 Dashboard & visualization work  
 
 ---
