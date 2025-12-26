@@ -57,7 +57,9 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 
 - Advanced SQL & query optimization  
 - Data storytelling and visualization best practices  
-- Statistics for data analysis  
+- Statistics for data analysis
+- Power BI
+- Tableau 
 
 ---
 
