@@ -56,6 +56,7 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 
 ## 📈 Currently Learning
 
+- Advanced Excel & Advanced Python For Data Analytics
 - Advanced SQL & query optimization  
 - Data storytelling and visualization best practices  
 - Statistics for data analysis
