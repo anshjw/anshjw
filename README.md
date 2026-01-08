@@ -19,6 +19,8 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 </td>
 <td width="50%" valign="top">
 
+---
+
 ### 🌱 Current Focus
 
 - Strengthening data analysis fundamentals  
