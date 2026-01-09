@@ -42,7 +42,7 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 - **Data Analysis:** Exploratory Data Analysis (EDA), Data Cleaning
 - **Databases:** SQL (MY-SQL, POSTGRE-SQL, SQL-Lite
 - **Visualization:** Matplotlib, Seaborn, Power BI / Tableau (Basic)
-- **Spreadsheets:** Excel (Pivot Tables, Lookups)
+- **Spreadsheets:** Excel (Pivot Tables, Lookups,Power Query)
 - **Tools:** Anaconda, Jupyter Notebook, Git, GitHub
 
 ---
