@@ -23,6 +23,7 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 
 ### 🌱 Current Focus
 
+- Advanced Excel
 - Strengthening data analysis fundamentals  
 - Building hands-on projects using real datasets  
 - Improving SQL, Python, and visualization skills  
