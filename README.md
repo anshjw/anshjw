@@ -53,7 +53,7 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 
 - 📌 Full Stack Scientific Lab Management E-commerce Website(online hosted)
 - 📌 Gym Management Web application for Local storage based database
-- 📌 Dashboard & visualization work (in progress)
+- 📌 Dashboard & visualization work 
 
 ---
 
