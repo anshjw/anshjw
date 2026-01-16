@@ -61,10 +61,12 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 
 - Advanced Excel & Advanced Python For Data Analytics
 - Advanced SQL & query optimization  
-- Data storytelling and visualization best practices  
+- Data storytelling and visualization best practices
+- Business Acumen 
 - Statistics for data analysis
 - Power BI
-- Tableau 
+- Tableau
+- Web Development 
 
 ---
 
