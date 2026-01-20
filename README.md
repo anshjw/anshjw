@@ -93,4 +93,4 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 
 ## 🤝 Open To Opportunities
 I am open to internships, collaborative projects, and entry-level opportunities in **Data Analytics**  & **Web Development**
-where I can contribute, learn, and grow as a professional.
+Where I can contribute, learn, and grow as a professional.
