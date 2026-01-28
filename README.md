@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=520&color=9CA3AF&lines=Hello+there!;My+name+is+Ansh+Jaiswal;Full+Stack+Data+Analyst"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=520&color=9CA3AF&lines=Welcome+To+My+Profile!;My+name+is+Ansh+Jaiswal;Data+Analyst"/>
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 ### 🚀 Profile
 
-Undergraduate Data Analyst focused on data-driven problem solving, analytics, and continuous learning.  
+Undergraduate Data Analyst focused on data-driven problem solving, analytics, and machine learning.  
 Interested in extracting insights from data using statistical thinking and modern analytical tools.  
 Actively seeking opportunities to apply and grow my skills in real-world projects.
 
@@ -40,7 +40,7 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 
 - **Programming:** Python (Pandas, NumPy), R(programming language), C
 - **Data Analysis:** Exploratory Data Analysis (EDA), Data Cleaning
-- **Databases:** SQL (MY-SQL, POSTGRE-SQL, SQL-Lite
+- **Databases:** SQL (MY-SQL, POSTGRE-SQL, SQL-Lite)
 - **Visualization:** Matplotlib, Seaborn, Power BI / Tableau (Basic)
 - **Spreadsheets:** Excel (Pivot Tables, Lookups,Power Query)
 - **Tools:** Anaconda, Jupyter Notebook, Git, GitHub
@@ -95,3 +95,5 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 ## 🤝 Open To Opportunities
 I am open to internships, collaborative projects, and entry-level opportunities in **Data Analytics**  & **Web Development**
 Where I can contribute, learn, and grow as a professional.
+
+---
