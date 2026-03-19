@@ -19,16 +19,14 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 </td>
 <td width="50%" valign="top">
 
----
-
 ### 🌱 Current Focus
 
-- Advanced Excel with dashboard
+- Advanced Excel with dashboard  
 - Strengthening data analysis fundamentals  
 - Building hands-on projects using real datasets  
 - Improving SQL, Python, and visualization skills  
-- Continuous learning and skill development
-- Business Acumen 
+- Continuous learning and skill development  
+- Business Acumen & BI Tools
 
 </td>
 </tr>
