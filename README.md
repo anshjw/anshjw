@@ -65,7 +65,6 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 - Business Acumen 
 - Statistics for data analysis
 - Power BI
-- Tableau
 - Web Development 
 
 ---
