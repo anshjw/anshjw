@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=520&color=9CA3AF&lines=Welcome+To+My+Profile!;My+name+is+Ansh+Jaiswal;Data+Analyst"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=520&color=9CA3AF&lines=Welcome+To+My+Profile!;My+name+is+Ansh+Jaiswal;I+Am+Data+Analyst"/>
 </p>
 
 ---
@@ -12,16 +12,16 @@
 
 ### 🚀 Profile
 
-Undergraduate Data Analyst focused on data-driven problem solving, analytics, and machine learning.  
+Data Analyst and Business Acumen enthusiast   
 Interested in extracting insights from data using statistical thinking and modern analytical tools.  
-Actively seeking opportunities to apply and grow my skills in real-world projects.
+Actively seeking opportunities to apply and grow my skills in real-world data-driven projects.  
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌱 Current Focus
 
-- Advanced Excel with dashboard  
+- Advanced Excel  
 - Strengthening data analysis fundamentals  
 - Building hands-on projects using real datasets  
 - Improving SQL, Python, and visualization skills  
@@ -36,11 +36,11 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 
 ## 🧰 Technologies & Tools
 
-- **Programming:** Python (Pandas, NumPy), R(programming language), C
+- **Programming:** Python (Pandas, NumPy), R(programming language), C, C++
 - **Data Analysis:** Exploratory Data Analysis (EDA), Data Cleaning
-- **Databases:** SQL (MY-SQL, POSTGRE-SQL, SQL-Lite)
-- **Visualization:** Matplotlib, Seaborn, Power BI / Tableau (Basic)
-- **Spreadsheets:** Excel (Pivot Tables, Lookups,Power Query)
+- **Databases:** SQL (MY-SQL, POSTGRE-SQL, SQLITE)
+- **Visualization:** Matplotlib, Seaborn, Power BI
+- **Spreadsheets:** Excel (Pivot Tables, Lookups,Power Query, Power Pivot)
 - **Tools:** Anaconda, Jupyter Notebook, Git, GitHub
 
 ---
@@ -49,21 +49,19 @@ Actively seeking opportunities to apply and grow my skills in real-world project
 
 > This section showcases selected work demonstrating data analysis, visualization, and problem-solving skills.
 
-- 📌 Full Stack Scientific Lab Management E-commerce Website(online hosted)
-- 📌 Gym Management Web application for Local storage based database
-- 📌 Data Science salary calculation salary dashboard using Excel
+- 📌 Full Stack Scientific Lab Management E-commerce Website(online hosted)  
+- 📌 Pharmaceuticals Data Analytics Dashboard to solve medicine manufacturing problem  
+- 📌 Gym Management Web application for Local storage based database  
+- 📌 Data Science salary calculation salary dashboard using Excel  
 
 ---
 
-## 📈 Currently Learning
+## 📈 Currently Learning  
 
-- Advanced Excel & Advanced Python For Data Analytics
-- Advanced SQL & query optimization  
-- Data storytelling and visualization best practices
-- Business Acumen 
-- Statistics for data analysis
-- Power BI
-- Web Development 
+- Python Advanced Libraries  
+- Data storytelling and visualization best practices  
+- Business Acumen  
+- Web Development (Next.js Framework)  
 
 ---
 
